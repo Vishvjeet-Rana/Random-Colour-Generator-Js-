@@ -17,3 +17,6 @@ Welcome to the Random Color Generator! This web tool generates random colors at 
 # Technology
 
 HTML5, CSS3, and JavaScript for a sleek and interactive user experience.
+
+# Link for the project
+https://vishvjeet-rana.github.io/Random-Colour-Generator-Js-/
